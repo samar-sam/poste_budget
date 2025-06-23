@@ -1,0 +1,88 @@
+2025-06-03 22:01:08,652 - INFO - User query: quelles est le budget de 2025 ? 
+2025-06-03 22:01:09,875 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-03 22:01:09,911 - INFO - Assistant response: **Résumé**
+
+Le budget de 2025 est estimé à 1,943333e+07 TND pour le mois de janvier, 1,653333e+07 TND pour le mois de février, 1,766667e+07 TND pour le mois de mars, et ainsi de suite pour les mois suivants.
+
+**Analyse**
+
+En examinant les données, nous pouvons observer que le budget de 2025 est en constante augmentation par rapport aux années précédentes. Les mois de janvier et février ont enregistré des budgets plus élevés que les mois de mars et avril, ce qui peut être attribué à la période de Ramadan qui a lieu en mars et avril.
+
+**Recommandation**
+
+Il est important de surveiller les budgets mensuels pour s'assurer que les objectifs sont atteints et que les dépenses sont contrôlées. Il est également recommandé de planifier les budgets en fonction des périodes saisonnières clés, telles que Ramadan et les fêtes de fin d'année.
+
+**Budget 2025**
+
+| Mois | Budget (TND) |
+| --- | --- |
+| Janvier | 58300000 |
+| Février | 49600000 |
+| Mars | 53000000 |
+| Avril | 50000000 |
+| Mai | 46300000 |
+| Juin | 46200000 |
+| Juillet | 47700000 |
+| Août | 50100000 |
+| Septembre | 72100000 |
+| Octobre | 48900000 |
+| Novembre | 49600000 |
+| Décembre | 84000000 |
+
+Note: Les chiffres sont des estimations et peuvent varier en fonction des événements et des facteurs économiques.
+2025-06-03 22:10:51,800 - INFO - User query: quelles est le budget de 2025 ? 
+2025-06-03 22:10:53,100 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-03 22:10:53,133 - INFO - Response: **Budget de 2025**
+
+En examinant les données, nous pouvons observer que le budget de 2025 est estimé à 1,943333e+07 Dinar Tunisien (TND) pour le mois de janvier, 1,653333e+07 TND pour le mois de février, et ainsi de suite.
+
+Voici le budget mensuel de 2025 :
+
+| Mois | Budget |
+| --- | --- |
+| Janvier | 1,943333e+07 TND |
+| Février | 1,653333e+07 TND |
+| Mars | 1,700000e+07 TND |
+| Avril | 1,733333e+07 TND |
+| Mai | 1,763333e+07 TND |
+| Juin | 1,793333e+07 TND |
+| Juillet | 1,823333e+07 TND |
+| Août | 1,853333e+07 TND |
+| Septembre | 1,883333e+07 TND |
+| Octobre | 1,913333e+07 TND |
+| Novembre | 1,943333e+07 TND |
+| Décembre | 1,973333e+07 TND |
+
+En résumé, le budget de 2025 est estimé à 1,973333e+07 TND pour le mois de décembre, ce qui représente une augmentation de 2,8% par rapport au budget de 2024.
+2025-06-03 22:11:18,894 - INFO - User query: c'est qui inetum?
+2025-06-03 22:11:19,702 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-03 22:11:19,717 - INFO - Response: Je suis désolé, mais je ne comprends pas votre question. Pouvez-vous me donner plus de contexte ou clarifier votre question ?
+2025-06-03 22:11:28,272 - INFO - User query: bonjour
+2025-06-03 22:11:28,334 - INFO - Response: Votre question semble ambiguë. Pouvez-vous préciser votre demande ?
+Suggestions : Pouvez-vous préciser votre question ? Par exemple : 'Quel est le budget pour la région Centre en 2024 ?'
+2025-06-03 22:11:48,411 - INFO - User query: hello, how are you
+2025-06-03 22:11:49,001 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-03 22:11:49,052 - INFO - Response: Bonjour ! I'm doing well, thank you for asking. It's a pleasure to assist you with any questions or concerns you may have. How about you? How's your day going so far?
+2025-06-03 22:12:08,751 - INFO - Suggestion query: What are the general trends in Tunisia's postal sector?
+2025-06-03 22:12:10,510 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-03 22:12:18,274 - INFO - Conversation exported to CSV
+2025-06-03 22:12:55,804 - INFO - PDF report generated: rapport_poste_tunisienne_20250603_221255.pdf
+2025-06-03 22:34:52,197 - INFO - User query: quand s'ouvre la poste tunisienn?
+2025-06-03 22:34:53,382 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-03 22:34:53,433 - INFO - Response: **Réponse:**
+
+La Poste tunisienne est ouverte tous les jours de l'année, sauf les jours fériés et les jours de congé. Les heures d'ouverture varient en fonction des régions et des types de services offerts. Voici les heures d'ouverture générales pour les bureaux de poste tunisiens:
+
+* Lundi à vendredi : 8h30 à 16h30
+* Samedi : 9h00 à 13h00
+* Dimanche : fermé
+
+Cependant, il est important de vérifier les heures d'ouverture spécifiques pour un bureau de poste en particulier, car elles peuvent varier en fonction de la région et du type de service offert. Vous pouvez vérifier les heures d'ouverture du bureau de poste le plus proche de votre emplacement en visitant le site web de La Poste tunisienne ou en appelant le numéro de téléphone de La Poste tunisienne.
+
+**Note:** Les heures d'ouverture peuvent varier pendant les périodes de Ramadan et des fêtes de fin d'année, il est donc recommandé de vérifier les heures d'ouverture avant de vous rendre au bureau de poste.
+2025-06-03 22:35:33,465 - INFO - Suggestion query: \U0001f4a1 Envisager un rééquilibrage budgétaire entre POSTE_TN_REGION_SUD et POSTE_TN_REGION_NORD
+2025-06-03 22:35:34,713 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-03 22:35:48,226 - INFO - Suggestion query: \U0001f4a1 Envisager un rééquilibrage budgétaire entre POSTE_TN_REGION_SUD et POSTE_TN_REGION_NORD
+2025-06-03 22:35:49,612 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-04 00:37:35,985 - INFO - User query: hi
+2025-06-04 00:37:36,065 - INFO - Response: Bonjour ! Je suis votre assistant dédié à La Poste Tunisienne, ici pour vous accompagner dans l’analyse de vos données budgétaires ou répondre à vos questions. Que souhaitez-vous explorer aujourd’hui ?
